@@ -1,4 +1,3 @@
-#!/usr/bin/pyhton
+#! /usr/bin/pyhton
 a = 42
 print(a)
-
